@@ -1,12 +1,12 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:7B42BC&height=200&section=header&text=Bhargav%20Kiran%20Surapaneni&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:7B42BC&height=200&section=header&text=Bhargav%20Kiran%20Surapaneni&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cloud%20%2F%20DevOps%20Engineer&descAlignY=58&descSize=18" alt="Header" />
 </p>
 
 <!-- Typing intro -->
 <p align="center">
   <a href="https://github.com/SANJU-571">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Azure+%7C+AWS+%7C+Terraform+%7C+Kubernetes;Infrastructure+as+Code+%26+GitOps;CI%2FCD+with+GitHub+Actions+%26+Azure+DevOps;Observability+with+Prometheus%2C+Grafana+%26+Datadog" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Azure+%7C+AWS+%7C+Terraform+%7C+Kubernetes;Infrastructure+as+Code+and+GitOps;CI%2FCD+with+GitHub+Actions+and+Azure+DevOps;Observability+with+Prometheus%2C+Grafana+and+Datadog" alt="Typing SVG" />
   </a>
 </p>
 
@@ -108,12 +108,11 @@ I came to Canada to grow further, completing a **Post Graduate Diploma in Modern
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="" width="32" height="32" /> Featured Projects
 
-<!-- Replace REPO-NAME in each link with the actual repository name -->
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Self-Service Observability Platform](https://github.com/SANJU-571/REPO-NAME)** | Teams onboard a service to Datadog with one YAML file in a PR; monitors and dashboards provisioned as code through an approval-gated GitOps pipeline | Datadog · Terraform · Azure DevOps · Python · pytest · Key Vault |
-| **[Hybrid Cloud Migration on Azure](https://github.com/SANJU-571/REPO-NAME)** | Migrated a banking reference network to a secure multi-tier Azure landing zone built from 11 Terraform modules, with a hardened AKS microservice and security-gated CI/CD | Azure · Terraform · AKS · Helm · GitHub Actions (OIDC) · Checkov · Trivy |
+| **[Self-Service Observability Platform](https://github.com/SANJU-571/self-service-monitoring-onboarding)** | Teams onboard a service to Datadog with one YAML file in a PR; monitors and dashboards provisioned as code through an approval-gated GitOps pipeline | Datadog · Terraform · Azure DevOps · Python · pytest · Key Vault |
+| **[Hybrid Cloud Migration on Azure](https://github.com/SANJU-571/hybrid-cloud-migration-cicd-azure)** | Migrated a banking reference network to a secure multi-tier Azure landing zone built from 11 Terraform modules, with a hardened AKS microservice and security-gated CI/CD | Azure · Terraform · AKS · Helm · GitHub Actions (OIDC) · Checkov · Trivy |
 | **Enterprise Cloud & Network Modernization** | Multi-tenant AWS platform with isolated VPCs, least-privilege IAM, auto scaling behind ALBs and ~35% lower storage costs | AWS · Prometheus · Grafana · CloudWatch · Bash · PowerShell |
 
 ---
