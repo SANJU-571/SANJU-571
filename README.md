@@ -12,7 +12,6 @@
 
 <!-- Quick badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SANJU-571&label=Profile%20views&color=0078D4&style=flat" alt="Profile views" />
   <a href="https://linkedin.com/in/bhargavkiransurapaneni"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bhargav.sanju571@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Mississauga%2C%20ON-4CAF50?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
@@ -42,54 +41,54 @@ I came to Canada to grow further, completing a **Post Graduate Diploma in Modern
 
 **Cloud**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure" alt="Azure" width="42" height="42" />&nbsp;
-  <img src="   https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="42" height="42" />&nbsp;
+  <a href="https://azure.microsoft.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure" alt="Azure" width="42" height="42" /></a>&nbsp;
+  <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="42" height="42" /></a>&nbsp;
 </p>
 
 **Infrastructure as Code & Configuration**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="42" height="42" />&nbsp;
-  <img src="https://img.shields.io/badge/Bicep-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Bicep" />&nbsp;
-  <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white" alt="CloudFormation" />
+  <a href="https://www.terraform.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="42" height="42" /></a>&nbsp;
+  <a href="https://www.ansible.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="42" height="42" /></a>&nbsp;
+  <a href="https://learn.microsoft.com/azure/azure-resource-manager/bicep/"><img src="https://img.shields.io/badge/Bicep-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Bicep" /></a>&nbsp;
+  <a href="https://aws.amazon.com/cloudformation/"><img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white" alt="CloudFormation" /></a>
 </p>
 
 **Containers & CI/CD**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes / AKS" alt="Kubernetes" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" alt="Azure DevOps" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="42" height="42" />
+  <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="42" height="42" /></a>&nbsp;
+  <a href="https://kubernetes.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes / AKS" alt="Kubernetes" width="42" height="42" /></a>&nbsp;
+  <a href="https://helm.sh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="42" height="42" /></a>&nbsp;
+  <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="42" height="42" /></a>&nbsp;
+  <a href="https://azure.microsoft.com/products/devops"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" alt="Azure DevOps" width="42" height="42" /></a>&nbsp;
+  <a href="https://www.jenkins.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="42" height="42" /></a>&nbsp;
+  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="42" height="42" /></a>
 </p>
 
 **Monitoring & SRE**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="42" height="42" />&nbsp;
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" alt="Datadog" />&nbsp;
-  <img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure Monitor" />&nbsp;
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" />
+  <a href="https://prometheus.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="42" height="42" /></a>&nbsp;
+  <a href="https://grafana.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="42" height="42" /></a>&nbsp;
+  <a href="https://www.datadoghq.com"><img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" alt="Datadog" /></a>&nbsp;
+  <a href="https://azure.microsoft.com/products/monitor"><img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure Monitor" /></a>&nbsp;
+  <a href="https://aws.amazon.com/cloudwatch/"><img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" /></a>
 </p>
 
 **Systems, Scripting & Data**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="42" height="42" />
+  <a href="https://www.linux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="42" height="42" /></a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="42" height="42" /></a>&nbsp;
+  <a href="https://learn.microsoft.com/powershell/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="42" height="42" /></a>&nbsp;
+  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="42" height="42" /></a>&nbsp;
+  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="42" height="42" /></a>&nbsp;
+  <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="42" height="42" /></a>
 </p>
 
 **Security**
 <p>
-  <img src="https://img.shields.io/badge/Key%20Vault-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Key Vault" />&nbsp;
-  <img src="https://img.shields.io/badge/Checkov-7B42BC?style=flat&logoColor=white" alt="Checkov" />&nbsp;
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aquasec&logoColor=white" alt="Trivy" />&nbsp;
-  <img src="https://img.shields.io/badge/IAM%20%2F%20RBAC-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="IAM/RBAC" />
+  <a href="https://azure.microsoft.com/products/key-vault"><img src="https://img.shields.io/badge/Key%20Vault-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Key Vault" /></a>&nbsp;
+  <a href="https://www.checkov.io"><img src="https://img.shields.io/badge/Checkov-7B42BC?style=flat&logoColor=white" alt="Checkov" /></a>&nbsp;
+  <a href="https://trivy.dev"><img src="https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aquasec&logoColor=white" alt="Trivy" /></a>&nbsp;
+  <a href="https://aws.amazon.com/iam/"><img src="https://img.shields.io/badge/IAM%20%2F%20RBAC-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="IAM/RBAC" /></a>
 </p>
 
 ---
@@ -97,11 +96,11 @@ I came to Canada to grow further, completing a **Post Graduate Diploma in Modern
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="" width="32" height="32" /> Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/Azure%20Administrator%20Associate-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104" />
-  <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate%20(004)-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS AI Practitioner" />
-  <img src="https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900" />
+  <a href="https://learn.microsoft.com/en-in/users/bhargavkiran-4551/credentials/a6d6d209ce7a2eef"><img src="https://img.shields.io/badge/Azure%20Administrator%20Associate-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104" /></a>
+  <a href="https://www.credly.com/badges/7094c102-f7f4-4984-b466-d327623568bb/public_url"><img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate%20(004)-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate" /></a>
+  <a href="https://www.credly.com/badges/9c820f98-f477-42f1-bd9e-ef6fbc46a06a/public_url"><img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" /></a>
+  <a href="https://www.credly.com/badges/5d63a3eb-5a4e-453c-9391-21fac3e17b7d/public_url"><img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS AI Practitioner" /></a>
+  <a href="https://learn.microsoft.com/en-ca/users/bhargavkiran-7481/credentials/b9848675a6f4f39f"><img src="https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900" /></a>
 </p>
 
 ---
