@@ -43,7 +43,7 @@ I came to Canada to grow further, completing a **Post Graduate Diploma in Modern
 **Cloud**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure" alt="Azure" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="42" height="42" />&nbsp;
+  <img src="   https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="42" height="42" />&nbsp;
 </p>
 
 **Infrastructure as Code & Configuration**
