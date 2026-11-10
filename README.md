@@ -21,15 +21,25 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="" width="32" height="32" /> About Me
 
-I'm **Bhargav**, a Cloud and DevOps Engineer based in Mississauga, Ontario.
+<p align="justify">
+I'm <b>Bhargav</b>, a Cloud and DevOps Engineer based in Mississauga, Ontario.
+</p>
 
-My journey started with a **Bachelor's in Computer Science** in India, where I first worked in data science, building a machine learning pipeline that automated resume screening. That experience showed me how much impact well-built infrastructure has on everything running on top of it, and it led me into cloud engineering.
+<p align="justify">
+My journey started with a <b>Bachelor's in Computer Science</b> in India, where I began my career in <b>data science</b>, building a machine learning pipeline that automated first-round resume screening. While building the model was rewarding, the part I enjoyed most was getting it into production: setting up the servers, automating the deployments and making sure it ran reliably every day. I realized that even the best model is only as valuable as the infrastructure that runs it, and that's where I wanted to build my career. So I made a deliberate switch from data science to <b>cloud engineering</b>.
+</p>
 
-As a **Cloud Engineer**, I built and operated **Azure and AWS** infrastructure for more than ten client environments: writing Infrastructure as Code with Terraform, shipping containerized services to Kubernetes through CI/CD pipelines, and keeping production systems healthy as part of a 24/7 on-call rotation. I learned early that good engineering means not just building systems, but owning them when things go wrong.
+<p align="justify">
+As a <b>Cloud Engineer</b>, I worked across <b>multi-cloud platforms</b>, building and operating <b>Microsoft Azure and AWS</b> infrastructure for more than ten client environments: writing Infrastructure as Code with Terraform, shipping containerized services to Kubernetes through CI/CD pipelines, and keeping production systems healthy as part of a 24/7 on-call rotation. I learned early that good engineering means not just building systems, but owning them when things go wrong.
+</p>
 
-I came to Canada to grow further, completing a **Post Graduate Diploma in Modern Networks and Cloud Computing** at Lambton College and earning my **AZ-104** and **HashiCorp Terraform Associate** certifications. Since then I've kept building hands-on, production-style projects in secure cloud architecture, GitOps and observability, which you'll find below.
+<p align="justify">
+I came to Canada to grow further, completing a <b>Post Graduate Diploma in Modern Networks and Cloud Computing</b> at Lambton College and earning my <b>AZ-104</b> and <b>HashiCorp Terraform Associate</b> certifications. Since then I've kept building hands-on, production-style projects in secure cloud architecture, GitOps and observability, which you'll find below.
+</p>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="" width="24" height="24" /> **What I'm looking for:** I'm actively seeking **Cloud, DevOps or Site Reliability Engineering** roles in Canada. I bring real production experience, a habit of automating everything I touch, and a strong drive to learn. I'm eager for the opportunity to contribute to a team and prove what I can deliver. If you're hiring or simply want to connect, I'd love to hear from you.
+<p align="justify">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="" width="24" height="24" /> <b>What I'm looking for:</b> I'm actively seeking <b>Cloud, DevOps, Site Reliability Engineering, Data Analyst and other Cloud and Analytics related job</b> roles in Canada. I bring real production experience, a habit of automating everything I touch, and a strong drive to learn. I'm eager for the opportunity to contribute to a team and prove what I can deliver. If you're hiring or simply want to connect, I'd love to hear from you.
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=800&color=7B42BC&center=true&vCenter=true&width=600&lines=Open+to+Cloud+%2F+DevOps+%2F+SRE+roles+in+Canada;Ready+to+automate%2C+scale+and+own+production;Let%27s+build+reliable+infrastructure+together" alt="Open to opportunities" />
@@ -119,16 +129,7 @@ I came to Canada to grow further, completing a **Post Graduate Diploma in Modern
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="" width="32" height="32" /> GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SANJU-571&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJU-571&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SANJU-571&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SANJU-571&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=SANJU-571&theme=tokyonight&hide_border=true&hide_longest_streak=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
