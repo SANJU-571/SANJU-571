@@ -122,7 +122,7 @@ I came to Canada to grow further, completing a <b>Post Graduate Diploma in Moder
 |---|---|---|
 | **[Self-Service Observability Platform](https://github.com/SANJU-571/self-service-monitoring-onboarding)** | Teams onboard a service to Datadog with one YAML file in a PR; monitors and dashboards provisioned as code through an approval-gated GitOps pipeline | Datadog · Terraform · Azure DevOps · Python · pytest · Key Vault |
 | **[Hybrid Cloud Migration on Azure](https://github.com/SANJU-571/hybrid-cloud-migration-cicd-azure)** | Migrated a banking reference network to a secure multi-tier Azure landing zone built from 11 Terraform modules, with a hardened AKS microservice and security-gated CI/CD | Azure · Terraform · AKS · Helm · GitHub Actions (OIDC) · Checkov · Trivy |
-| **Enterprise Cloud & Network Modernization** | Multi-tenant AWS platform with isolated VPCs, least-privilege IAM, auto scaling behind ALBs and ~35% lower storage costs | AWS · Prometheus · Grafana · CloudWatch · Bash · PowerShell |
+| **[Enterprise Cloud & Network Modernization](https://github.com/SANJU-571/Enterprise-Cloud-Network-Modernization)** | Multi-tenant AWS platform with isolated VPCs, least-privilege IAM, auto scaling behind ALBs and ~35% lower storage costs | AWS · Prometheus · Grafana · CloudWatch · Bash · PowerShell |
 
 ---
 
